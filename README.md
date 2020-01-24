@@ -1,2 +1,2 @@
 # brand
- Logotype and other brand resources 
+Logotype and other brand resources
